@@ -2,7 +2,7 @@
 
 ## Overview
 
-It's time to start thinking about your **final course project**! This will be your opportunity to apply everything you've learned in CMPSC 100 to create something meaningful and interesting.
+It's time to start thinking about your **final course project**! This will be your opportunity to apply everything you have learned in CMPSC 100 to create something meaningful and interesting.
 
 ## Project Requirements (Preview)
 
@@ -12,6 +12,7 @@ Your final project will require:
 - ✅ Oral walkthrough (present your code and explain design decisions)
 - ✅ **Multiple classes (2+)** demonstrating Object-Oriented Programming
 - ✅ **Multiple functions** showing modular design
+- ✅ **All coding concepts we covered** (variables, data structures, control structures - loops, conditionals)
 - ✅ Choice of **hardware** (Pico 2 + sensors) OR **pure Python** implementation
 
 ### Project Scope Options
@@ -47,7 +48,7 @@ For this activity, you need to **brainstorm and propose 3 different project idea
 
 ## Submission Format
 
-Create a file called `project_ideas.md` in the `writing/` folder with your three project proposals. Use the template below.
+Complete a file called `project_ideas.md` in the `writing/` folder with your three project proposals.
 
 ---
 
@@ -127,7 +128,7 @@ This activity is assessed on a **pass/fail basis**:
 
 ## Important Notes
 
-- **This is brainstorming only** - you're not committing to these ideas yet
+- **This is brainstorming only** - you are not committing to these ideas yet
 - You can propose any combination of hardware/Python-only ideas
 - Think about what you are most excited to learn and build
 - The full project requirements will be released next week
