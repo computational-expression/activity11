@@ -10,7 +10,7 @@ Complete this template with your three project ideas. Be thoughtful and specific
 [2-3 sentences describing what your project does and who would use it]
 
 ### Project Type
-- [x] Python + Hardware (Pico 2)
+- [ ] Python + Hardware (Pico 2)
 - [ ] Pure Python (No Hardware)
 
 ### Hardware Requirements (if applicable)
